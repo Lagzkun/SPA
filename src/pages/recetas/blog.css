@@ -1,0 +1,14 @@
+.container-blog {
+    height: 1024px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-blog h1 {
+    text-align: center;
+}
+.card-sector {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3,1fr);
+}

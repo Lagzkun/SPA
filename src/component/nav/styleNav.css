@@ -1,0 +1,26 @@
+.nav {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-around;
+    padding: 0.5rem 1rem;
+    background-color: #B8D109;
+    margin: 0;
+}
+
+.nav ul {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: stretch;
+    width: 50%;
+    justify-content: space-evenly;
+}
