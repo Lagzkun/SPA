@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Receta de la Arepa Especial",
+        "img":"https://img.freepik.com/foto-gratis/surtido-arepas-relleno-plato_23-2148742392.jpg?t=st=1656460119~exp=1656460719~hmac=a32523a53f65c5816ff125be377a3a16ec396920effc7bf0a04096a585640a9a&w=1380",
+        "info":"Monta tu Arepera con esta receta",
+        "button": "Leer Receta"
+    },
+    {
+        "name":"Receta de la Arepa Sabrosa",
+        "img": "https://img.freepik.com/foto-gratis/arreglo-comida-sabrosa-alto-angulo_23-2148708233.jpg?t=st=1656460112~exp=1656460712~hmac=7ce99833a0c6f5a03c01abacb7e000080380d04c65d0fc3102b36bda8ee9381a&w=1380",
+        "info":"Hazte millonario vendiendo arepas con langosta",
+        "button": "Leer Receta"
+    },
+    {
+        "name":"Receta de la Arepa Parrillera",
+        "img":"https://img.freepik.com/foto-gratis/alto-angulo-arepas-aguacate-carne-tablero-madera_23-2148742399.jpg?t=st=1656460112~exp=1656460712~hmac=548cc33447389bcf87f8232f0f2b1b0bd6ec32dbe2b6e1a0b6b4b421052b800e&w=1380",
+        "info":"Quitate el hambre con esta receta",
+        "button": "Leer Receta"
+    }
+]
