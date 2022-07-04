@@ -5,9 +5,9 @@ import { Slide } from 'react-slideshow-image';
 
 const Home = () => {
     const sliderInfo = [
-        {"text": 'Slide 1', 'image':'https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80'},
-        {"text": 'Slide 2', 'image': 'https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80'},
-        {"text": 'Slide 3', 'image': 'https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80'},
+        {"text": 'Slide 1', 'image':'https://img.freepik.com/foto-gratis/plato-comida-dieta-ceto-tomates-cherry-pechuga-pollo-huevos-zanahoria-ensalada-rucula-espinacas-keto-almuerzo-vista-superior_2829-16946.jpg?t=st=1656878483~exp=1656879083~hmac=f4b41bd40e2290a4b0cbeb33ec76f0f949574e50fab869f46d3a34dc5a77517b&w=1380'},
+        {"text": 'Slide 2', 'image': 'https://img.freepik.com/foto-gratis/espagueti-pesto-gambas-servido-plato_1220-3041.jpg?w=1380'},
+        {"text": 'Slide 3', 'image': 'https://img.freepik.com/foto-gratis/falafel-hummus-pita-platos-oriente-medio-o-arabe-comida-halal-vista-superior-bandera_2829-14259.jpg?w=1380'},
     ];
     return (
         <div className='container-home'>

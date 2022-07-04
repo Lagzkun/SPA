@@ -1,11 +1,12 @@
-import React from 'react';
+import React from 'react'
+import Form from '../../component/form/form';
 
-const Contacto = () => {
-    return (
-        <div className='container-home'>
-            <p>Hola soy la pagina de contacto</p>
-        </div>
-    );
+const contacto = () => {
+  return (
+    <div className='container-home'>
+      <Form/>
+    </div>
+  )
 }
 
-export default Contacto;
+export default contacto;
